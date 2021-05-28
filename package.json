@@ -1,0 +1,24 @@
+{
+  "name": "megah",
+  "version": "1.0.6",
+  "description": "Bot para Whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endblack/megah.git"
+  },
+  "keywords": [
+    "megah",
+    "mega",
+    "bot"
+  ],
+  "author": "Max Senpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endblack/megah/issues"
+  },
+  "homepage": "https://github.com/endblack/megah#readme"
+}
